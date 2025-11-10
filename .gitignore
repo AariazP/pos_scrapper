@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual envs
+venv/
+.env
+
+# macOS
+.DS_Store
+
+# Playwright / screenshots / artifacts
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.mp4
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
